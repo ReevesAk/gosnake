@@ -1,2 +1,4 @@
 # gosnake
-A simple terminal snake game written in Go. 
+
+A simple game written in go. 
+A snake game built with termloop and was completed  in 5days.
